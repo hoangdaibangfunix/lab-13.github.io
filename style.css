@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("bg-1.jpg");
+
+  padding: 320px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("bg-2.jpg");
+
+  padding: 320px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("bg-3.jpg");
+
+  padding: 320px;
+}
